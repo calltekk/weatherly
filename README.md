@@ -168,7 +168,3 @@ flutter pub get
 
 - The project scaffold targets multiple platforms. When adding native plugins, verify multi-platform compatibility and test on each target you intend to support.
 
-## License
-
-This repository does not contain a license file by default. Add a `LICENSE` file if you wish to specify terms for reuse.
-
